@@ -3,12 +3,7 @@
 > vite dev --port 3000 --host 0.0.0.0
 
 
-  VITE v6.2.5  ready in 183 ms
+  VITE v6.2.5  ready in 151 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
-10:00:36 AM [vite] (client) page reload src/main.js
-10:00:43 AM [vite] (client) page reload src/main.js
-10:01:04 AM [vite] (client) page reload src/main.js
-10:01:12 AM [vite] (client) page reload src/main.js
-10:01:14 AM [vite] (client) page reload src/main.js
